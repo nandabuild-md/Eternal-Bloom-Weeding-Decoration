@@ -125,7 +125,7 @@ export function Planning() {
                 <label className="font-label text-xs uppercase tracking-widest text-on-surface/70">Ceritakan Visi Anda</label>
                 <textarea rows={5} className="w-full bg-surface-container-low border border-outline-variant p-4 rounded-sm focus:outline-none focus:border-primary transition-colors" placeholder="Kami memimpikan pernikahan yang..."></textarea>
               </div>
-              <a href="https://wa.me/6283167987800?text=Halo%20astrina%20saya%20tertarik%20dengan%20website%20%22Eternal%20Bloom%22%20atau%20saya%20tertarik%20membuat%20template%20seperti%20demo5.astmay.space%20bisakah%20saya%20dapat%20free%20konsultasi%20%3F" target="_blank" rel="noopener noreferrer" className="bg-primary text-on-primary px-10 py-4 text-sm font-label uppercase tracking-widest hover:bg-on-surface transition-colors duration-500 rounded-sm w-full block text-center">
+              <a href="https://wa.me/6283167987800?text=Halo%20astrina%20saya%20tertarik%20membuat%20website%20wedding%20organizer%20seperti%20Eternal%20Bloom%20di%20demo5.astmay.space%20bisakah%20saya%20dapat%20free%20konsultasi%20%3F" target="_blank" rel="noopener noreferrer" className="bg-primary text-on-primary px-10 py-4 text-sm font-label uppercase tracking-widest hover:bg-on-surface transition-colors duration-500 rounded-sm w-full block text-center">
                 Kirim Permintaan
               </a>
             </form>

@@ -32,7 +32,7 @@ export function Footer() {
             <a href="#" className="w-10 h-10 flex items-center justify-center bg-surface-container hover:bg-primary-container transition-colors rounded-sm">
               <span className="material-symbols-outlined text-primary text-xl">share</span>
             </a>
-            <a href="https://wa.me/6283167987800?text=Halo%20astrina%20saya%20tertarik%20dengan%20website%20%22Eternal%20Bloom%22%20atau%20saya%20tertarik%20membuat%20template%20seperti%20demo5.astmay.space%20bisakah%20saya%20dapat%20free%20konsultasi%20%3F" target="_blank" rel="noopener noreferrer" className="w-10 h-10 flex items-center justify-center bg-surface-container hover:bg-primary-container transition-colors rounded-sm">
+            <a href="https://wa.me/6283167987800?text=Halo%20astrina%20saya%20tertarik%20membuat%20website%20wedding%20organizer%20seperti%20Eternal%20Bloom%20di%20demo5.astmay.space%20bisakah%20saya%20dapat%20free%20konsultasi%20%3F" target="_blank" rel="noopener noreferrer" className="w-10 h-10 flex items-center justify-center bg-surface-container hover:bg-primary-container transition-colors rounded-sm">
               <span className="material-symbols-outlined text-primary text-xl">mail</span>
             </a>
           </div>

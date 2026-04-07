@@ -82,7 +82,7 @@ export function Pricing() {
                 ))}
               </ul>
               
-              <a href="https://wa.me/6283167987800?text=Halo%20astrina%20saya%20tertarik%20dengan%20website%20%22Eternal%20Bloom%22%20atau%20saya%20tertarik%20membuat%20template%20seperti%20demo5.astmay.space%20bisakah%20saya%20dapat%20free%20konsultasi%20%3F" target="_blank" rel="noopener noreferrer" className={`w-full py-4 text-xs font-label uppercase tracking-widest transition-colors block text-center ${pkg.featured ? 'bg-primary text-on-primary hover:bg-on-surface' : 'border border-primary text-primary hover:bg-primary hover:text-on-primary'}`}>
+              <a href="https://wa.me/6283167987800?text=Halo%20astrina%20saya%20tertarik%20membuat%20website%20wedding%20organizer%20seperti%20Eternal%20Bloom%20di%20demo5.astmay.space%20bisakah%20saya%20dapat%20free%20konsultasi%20%3F" target="_blank" rel="noopener noreferrer" className={`w-full py-4 text-xs font-label uppercase tracking-widest transition-colors block text-center ${pkg.featured ? 'bg-primary text-on-primary hover:bg-on-surface' : 'border border-primary text-primary hover:bg-primary hover:text-on-primary'}`}>
                 Pilih Paket
               </a>
             </motion.div>

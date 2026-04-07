@@ -66,7 +66,7 @@ export function Navbar() {
           );
         })}
       </div>
-      <a href="https://wa.me/6283167987800?text=Halo%20astrina%20saya%20tertarik%20dengan%20website%20%22Eternal%20Bloom%22%20atau%20saya%20tertarik%20membuat%20template%20seperti%20demo5.astmay.space%20bisakah%20saya%20dapat%20free%20konsultasi%20%3F" target="_blank" rel="noopener noreferrer" className="bg-primary text-on-primary px-6 py-2 rounded-sm text-sm font-label tracking-[0.05em] uppercase hover:opacity-80 transition-all duration-300 scale-98 active:scale-95 inline-block text-center">
+      <a href="https://wa.me/6283167987800?text=Halo%20astrina%20saya%20tertarik%20membuat%20website%20wedding%20organizer%20seperti%20Eternal%20Bloom%20di%20demo5.astmay.space%20bisakah%20saya%20dapat%20free%20konsultasi%20%3F" target="_blank" rel="noopener noreferrer" className="bg-primary text-on-primary px-6 py-2 rounded-sm text-sm font-label tracking-[0.05em] uppercase hover:opacity-80 transition-all duration-300 scale-98 active:scale-95 inline-block text-center">
         Konsultasi Gratis 15 Menit
       </a>
     </nav>
