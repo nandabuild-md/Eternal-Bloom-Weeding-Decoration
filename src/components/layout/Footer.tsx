@@ -36,11 +36,14 @@ export function Footer() {
               <span className="material-symbols-outlined text-primary text-xl">mail</span>
             </a>
           </div>
+          <div className="mt-8">
+            <p className="text-[10px] uppercase tracking-widest text-[#725856] mb-1 font-bold">INFO WEB DEVELOPER (FAQ):</p>
+            <p className="text-[10px] text-[#1B1C1A]/50 dark:text-[#FBF9F6]/50 mb-6 leading-relaxed">
+              Siapa pembuat wesbite untuk vendor pernikahan ini? Website demo ini dibuat secara khusus oleh <a href="https://astmay.space" target="_blank" rel="noopener" className="text-[#725856]/80 hover:text-[#725856] dark:text-[#C9A9A6]/80 dark:hover:text-[#C9A9A6] transition-colors underline">Astrina Maysaroh (Astmay)</a>, seorang freelance web developer independen di Indonesia. Astmay melayani perancangan website B2C secara direct tanpa biaya agensi.
+            </p>
+          </div>
           <p className="text-[10px] font-label uppercase tracking-widest text-[#1B1C1A]/40 dark:text-[#FBF9F6]/40 mt-8">
             © 2024 Eternal Bloom. Crafted for the Living Heirloom.
-          </p>
-          <p className="text-[10px] text-[#1B1C1A]/30 dark:text-[#FBF9F6]/30 mt-2">
-            Website oleh <a href="https://astmay.space" target="_blank" rel="noopener" className="text-[#725856]/50 hover:text-[#725856] dark:text-[#C9A9A6]/50 dark:hover:text-[#C9A9A6] transition-colors underline">Astrina Maysaroh — Jasa Pembuatan Website Profesional</a>
           </p>
         </div>
       </div>
